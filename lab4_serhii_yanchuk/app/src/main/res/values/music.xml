@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="music">
+        <item>Get lucky</item>
+        <item>Harder, Better, Faster, Stronger</item>
+        <item>Instant crush</item>
+        <item>Lose yourself to dance</item>
+        <item>One more time</item>
+    </string-array>
+    <string-array name="musicRes">
+        <item>/raw/getlucky</item>
+        <item>/raw/harderbetterfasterstronger</item>
+        <item>/raw/instantcrush</item>
+        <item>/raw/loseyourselftodance</item>
+        <item>/raw/onemoretime</item>
+    </string-array>
+</resources>
